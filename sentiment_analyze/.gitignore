@@ -9,7 +9,6 @@ venv/
 
 # Secrets and local configuration
 .env
-!.env
 
 # Frontend dependencies and build output
 user-frontend/node_modules/
@@ -25,3 +24,4 @@ user-frontend/test-results/
 .vscode/
 .DS_Store
 Thumbs.db
+uv.lock
